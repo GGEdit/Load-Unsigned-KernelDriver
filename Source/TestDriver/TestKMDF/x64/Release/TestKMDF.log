@@ -1,0 +1,22 @@
+﻿  Building 'TestKMDF' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\TestKMDF.inf
+  Stamping [Version] section with DriverVer=03/01/2019,1.4.14.453
+  TestKMDF.vcxproj -> F:\app01\Project\TestKMDF\x64\Release\TestKMDF.sys
+  Done Adding Additional Store
+  Successfully signed: F:\app01\Project\TestKMDF\x64\Release\TestKMDF.sys
+  
+  Driver is a Universal Driver.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  F:\app01\Project\TestKMDF\x64\Release\TestKMDF\testkmdf.cat
+  Done Adding Additional Store
+  Successfully signed: F:\app01\Project\TestKMDF\x64\Release\TestKMDF\testkmdf.cat
+  
